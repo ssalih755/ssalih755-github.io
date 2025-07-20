@@ -37,7 +37,7 @@ Welcome to my personal developer portfolio built with **React**. This applicatio
 ### Installation
 
 ```bash
-git clone https://github.com/ssalih755-github.io/my-portfolio.git
+git clone https://github.com/ssalih755-github.io/react-portfolio.git
 cd my-portfolio
 npm install
 ```
