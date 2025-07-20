@@ -22,7 +22,7 @@ Welcome to my personal developer portfolio built with **React**. This applicatio
 ## 🔗 Live Site
 
 🌍 **Check it out here:**
-[https://ssalih755-github.io/my-portfolio](https://ssalih755-github.io/my-portfolio)
+[https://ssalih755-github.io/react-portfolio](https://ssalih755-github.io/react-portfolio)
 
 
 ---
@@ -38,7 +38,7 @@ Welcome to my personal developer portfolio built with **React**. This applicatio
 
 ```bash
 git clone https://github.com/ssalih755-github.io/react-portfolio.git
-cd my-portfolio
+cd react-portfolio
 npm install
 ```
 
