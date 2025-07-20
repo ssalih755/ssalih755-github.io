@@ -1,0 +1,32 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: rgba(15, 23, 42, 0.8);
+  padding: 1rem 2rem;
+  border-bottom: 1px solid rgba(124, 58, 237, 0.2); /* soft purple border */
+  backdrop-filter: blur(10px); /* glassy look */
+  box-shadow: 0 0 10px rgba(67, 56, 202, 0.2); /* subtle indigo glow */
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  color: #c4b5fd; /* light lavender */
+  font-size: 1.5rem;
+  text-shadow: 0 0 5px rgba(124, 58, 237, 0.4); /* glowing purple brand */
+}
+
+.navbar-links a {
+  color: #e0e7ff;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.3s ease, text-shadow 0.3s ease;
+}
+
+.navbar-links a:hover {
+  color: #a78bfa; /* soft neon violet */
+  text-shadow: 0 0 5px rgba(162, 89, 255, 0.6); /* glow on hover */
+}

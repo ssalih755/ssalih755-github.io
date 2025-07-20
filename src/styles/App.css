@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,20 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  /* background: radial-gradient(circle at 60% 60%, #4b0082, #330066, #1a0033); */
+    /* background: radial-gradient(circle , #733e99 5%, #210c3d 10%, #11071F 100%); */
+  /* background: radial-gradient(circle at 60% 65%,#631388 15%, #1b792f 50%, #1024da 100%); */
+background: radial-gradient(circle at 60% 65%, #7c3aed 15%, #1e1b4b 50%, #0f172a 100%);
+
+
+  color: #fff;
+}
+
+.App {
+  min-height: 100vh;
 }

@@ -1,0 +1,15 @@
+.skills-section, .projects-section {
+  text-align: center;
+  padding: 4rem 1rem;
+}
+
+.cards-grid {
+  display: flex;
+  flex-wrap: wrap;
+   justify-content: center;
+}
+
+.skill-card {
+  max-width: 90vh;
+  margin: 1rem;
+}

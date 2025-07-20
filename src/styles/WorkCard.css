@@ -1,0 +1,19 @@
+
+
+.work-card {
+  background: rgba(20, 20, 40, 0.7); /* dark navy base */
+  border: 1px solid rgba(124, 58, 237, 0.3); /* soft purple border */
+  color: #e0e7ff; /* light bluish text for readability */
+  border-radius: 1rem;
+  padding: 2rem;
+  box-shadow: 0 0 20px rgba(67, 56, 202, 0.2); /* subtle indigo glow */
+  backdrop-filter: blur(10px);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.work-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 0 30px rgba(124, 58, 237, 0.4); /* strong purple glow on hover */
+}
+
+

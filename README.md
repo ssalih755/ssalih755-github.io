@@ -1,70 +1,107 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# 💼 Sarrah Salih – Developer Portfolio
 
-In the project directory, you can run:
+Welcome to my personal developer portfolio built with **React**. This application highlights my software engineering projects, skills, and technical journey in a sleek, interactive, and modern interface.
 
-### `npm start`
+> 🔨 Built with [Create React App](https://github.com/facebook/create-react-app)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## ✨ Features
 
-### `npm test`
+* 🎨 **Dark, futuristic UI** using purples and blues
+* 🧩 Modular **React components** for easy scaling
+* 🖱️ **Draggable project cards** powered by Framer Motion
+* 🌀 Smooth transitions and animations
+* 📱 Fully **responsive design** across all devices
+* 🌐 **Deployed and live** online
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 🔗 Live Site
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+🌍 **Check it out here:**
+[https://ssalih755-github.io/my-portfolio](https://ssalih755-github.io/my-portfolio)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 🚀 Getting Started
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Prerequisites
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* Node.js
+* npm
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Installation
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```bash
+git clone https://github.com/ssalih755-github.io/my-portfolio.git
+cd my-portfolio
+npm install
+```
 
-## Learn More
+### Run Locally
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+npm start
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+This will launch the app at [http://localhost:3000](http://localhost:3000)
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 📁 Folder Structure
 
-### Analyzing the Bundle Size
+```
+src/
+├── components/       # Reusable UI components (e.g. WorkCard, Navbar)
+├── styles/           # Custom CSS
+├── App.jsx           # Main app component
+└── index.js          # Entry point
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+## 🔧 Scripts
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+| Command         | Description                          |
+| --------------- | ------------------------------------ |
+| `npm start`     | Starts the app in development mode   |
+| `npm run build` | Builds the app for production        |
+| `npm test`      | Runs tests in watch mode             |
+| `npm run eject` | Ejects CRA config (use with caution) |
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 🚀 Deployment
 
-### Deployment
+You can deploy this portfolio on:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+* [GitHub Pages](https://create-react-app.dev/docs/deployment/#github-pages)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+
+## 👩‍💻 About Me
+
+**Sarrah Salih**
+Full-Stack Software Developer & QA Lead
+🧠 Bootcamp graduate with a background in leadership, testing, and scalable development.
+💬 Passionate about learning, building, and mentoring.
+
+📎 [LinkedIn](https://www.linkedin.com/in/sarrahsalih)
+💻 [GitHub](https://github.com/ssalih755)
+
+---
+
+## 🛠 Built With
+
+* React
+* Framer Motion
+* JavaScript (ES6+)
+* HTML/CSS
+
+
+
