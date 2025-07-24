@@ -1,4 +1,9 @@
 .projects-section {
+  text-align: left;
+  padding: 4rem 1rem;
+}
+
+.projects-section h2{
   text-align: center;
   padding: 4rem 1rem;
 }
